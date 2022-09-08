@@ -47,7 +47,3 @@ developers no meu <a href="https://https://whatsfacil.com/114f6f"><i>Whatsapp</i
   
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href=""></a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
