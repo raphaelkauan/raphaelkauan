@@ -1,11 +1,10 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.instagram.com/rapha_code/"><i>Raphael kauan</i></a> 😁</h1>
-  <p align="center">Estou Postando meu dia-dia no Meu <a href="https://www.instagram.com/rapha_code/"><i>Instagram</i></a> e interagindo com vários 
+  <h1 align="center">Olá Tudo bem? Eu sou o <a href="https://www.instagram.com/rapha_code/"><i>Raphael kauan</i></a> 😁</h1> 
+  <p align="center">Estou Postando meu dia-dia no <a href="https://www.instagram.com/rapha_code/"><i>Instagram</i></a> e interagindo com vários 
 developers no meu <a href="https://https://whatsfacil.com/114f6f"><i>Whatsapp</i></a><span> 💚</span>
-  <a align="rigth"  href="  " target="_blank">
-    
-  </a><br>
-  <p align="center">Já segue aí e vem Codar comigo, Tua contribuição será muito Bem vinda, vlw mesmo! 😉️</h2>
+  <a align="rigth"  href="  " target="_blank"></a>
+  
+  <p align="center">Já segue aí e vem Codar comigo! 😉️</h2>
 </div>
 
 
@@ -16,8 +15,8 @@ developers no meu <a href="https://https://whatsfacil.com/114f6f"><i>Whatsapp</i
 <p align="center"><i>"Tenho 18 anos e sempre fui Apaixonado por Tecnologia"</i></p> -->
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="200em" src="https://blog.4linux.com.br/wp-content/uploads/2019/06/Devops1.jpeg"/>
+  <a href="https://pa1.narvii.com/6538/55720be8787f6b43f33751a4d148e38d23c15922_hq.gif">
+    <img src="https://pa1.narvii.com/6538/55720be8787f6b43f33751a4d148e38d23c15922_hq.gif"/>
     
   </a>
 </div>
@@ -29,6 +28,7 @@ developers no meu <a href="https://https://whatsfacil.com/114f6f"><i>Whatsapp</i
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
   
 
  
