@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá Tudo bem? Eu sou o <a href="https://www.instagram.com/rapha_code/"><i>Raphael kauan</i></a> 😁</h1> 
   <p align="center">Estou Postando meu dia-dia no <a href="https://www.instagram.com/rapha_code/"><i>Instagram</i></a> e interagindo com vários 
-developers no meu <a href="https://https://whatsfacil.com/114f6f"><i>Whatsapp</i></a><span> 💚</span>
+developers no meu <a href="https://https://whatsfacil.com/114f6f"><i>Whatsapp</i></a><span> 🤎</span>
   <a align="rigth"  href="  " target="_blank"></a>
   
   <p align="center">Já segue aí e vem Codar comigo! 😉️</h2>
