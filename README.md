@@ -21,7 +21,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://user-images.githubusercontent.com/111379005/221443950-3987af4e-393d-4d9e-9f1f-c12d20abb5b3.jpg"/>
+        <img height="340em" src="https://user-images.githubusercontent.com/111379005/221443950-3987af4e-393d-4d9e-9f1f-c12d20abb5b3.jpg"/>
      </p>
     </td>
   </tr>
