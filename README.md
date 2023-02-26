@@ -21,7 +21,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/08/dicas-programadores-iniciantes.png"/>
+        <img height="360em" src="https://user-images.githubusercontent.com/111379005/221443729-b01cdee8-3400-4f14-ad05-460af20bedda.jpg"/>
      </p>
     </td>
   </tr>
