@@ -58,13 +58,13 @@
       </p>
       <br>
       <a href="https://www.instagram.com/fantecellerapha/" target="_blank">
-      <img align="center" alt="Raphael Kauan | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      <img align="center" alt="Raphael Kauan | Instagram" width="30em" src="https://img.icons8.com/3d-fluency/256/instagram-new.png" />
       </a> &nbsp;&nbsp;
       <a href="mailto:raphaelkauanoficial@gmail.com" >
-      <img align="center" alt="Raphael Kauan | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      <img align="center" alt="Raphael Kauan | Gmail" width="30em" src="https://img.icons8.com/3d-fluency/256/gmail.png" />
       </a> &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/raphael-kauan-%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB-a62138251/" >
-      <img align="center" alt="Raphael Kauan | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      <img align="center" alt="Raphael Kauan | LinkedIn" width="30em" src="https://img.icons8.com/3d-fluency/1x/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
