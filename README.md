@@ -1,4 +1,4 @@
-<img width="30em" src="https://img.icons8.com/color/256/verified-badge.png"/>
+<img width="30em" src="https://img.icons8.com/color/256/verified-account.png"/>
 
 ## Olá, meu nome é Raphael Kauan!
 
