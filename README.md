@@ -36,7 +36,6 @@
      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
      <br>
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
      <br>
      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -51,9 +50,7 @@
     <div align="center">
       <h2><b>Como me alcançar?</b></h2>
       <br>
-      <p>Basta entrar em contato em algumas das minhas redes sociais,
-        <br>responderei assim que possível.
-      </p>
+      <p>Basta entrar em contato em algumas das minhas redes sociais, responderei assim que possível.</p>
       <br>
       <a href="https://www.instagram.com/fantecellerapha/" target="_blank">
       <img align="center" alt="Raphael Kauan | Instagram" width="30em" src="https://img.icons8.com/3d-fluency/256/instagram-new.png" />
