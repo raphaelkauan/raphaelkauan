@@ -10,7 +10,7 @@
         <li>🎓 &nbsp; Estudante de Bacharel em Sistemas de informação pela <a href="https://www.unescnet.br/">Unesc</a></li>
         <li>📚 &nbsp; Aprimorando meu conhecimento através cursos online </li>
         <li>🎩 &nbsp; Desenvolvedor Jr </li>
-        <li>☕ &nbsp; Atualmente estou estudando Java e aprimorando meus conhecimentos em front-end </li>
+        <li>☕ &nbsp; Atualmente estou estudando Java </li>
        </ul>
        <p align="center">
          <br>
