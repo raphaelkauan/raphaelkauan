@@ -27,7 +27,7 @@
   </tr>
   <tr>
    <td>
-     <h2> 👊🏼 &nbsp;Tecnologias</h2>
+     <h2> <img width="30em" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-technologies-computer-science-flaticons-lineal-color-flat-icons.png" /> &nbsp; </h2>
      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
      <br>
      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
