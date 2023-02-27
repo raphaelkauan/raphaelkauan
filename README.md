@@ -1,4 +1,4 @@
-<img width="30em" src="https://img.icons8.com/3d-fluency/256/verified-account.png"/>
+<img width="30em" src="https://img.icons8.com/3d-fluency/256/github.png"/>
 
 ## Olá, meu nome é Raphael Kauan!
 
