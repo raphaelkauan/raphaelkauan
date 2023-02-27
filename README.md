@@ -1,6 +1,6 @@
 <img width="30em" src="https://img.icons8.com/color/256/verified-account.png"/>
 
-## Olá, meu nome é Raphael Kauan!
+## Olá! meu nome é Raphael Kauan
 
 <!-- ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4) -->
 
