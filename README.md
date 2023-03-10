@@ -14,7 +14,7 @@
        </ul>
        <p align="center">
          <br>
-        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=raphaelkauan&show_icons=true&theme=great-gatsby"/>
+        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=raphaelkauan&show_icons=true&theme=darcula"/>
         </p>
     </td>
     <td>
