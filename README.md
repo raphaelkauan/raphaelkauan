@@ -59,7 +59,7 @@
       <a href="mailto:raphaelkauanoficial@gmail.com" >
       <img align="center" alt="Raphael Kauan | Gmail" width="30em" src="https://img.icons8.com/3d-fluency/256/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/raphael-kauan-%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB-a62138251/" >
+      <a href="https://www.linkedin.com/in/raphaelkauan/" >
       <img align="center" alt="Raphael Kauan | LinkedIn" width="30em" src="https://img.icons8.com/3d-fluency/1x/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
@@ -70,4 +70,4 @@
 
 ---
 
-Última edição em: 09/03/2023
+Última edição em: 15/05/2023
