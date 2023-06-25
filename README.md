@@ -10,7 +10,7 @@
         <li>🎓 &nbsp; Estudante de Bacharel em Sistemas de informação pela <a href="https://www.unescnet.br/">Unesc</a></li>
         <li>📚 &nbsp; Aprimorando meu conhecimento através de cursos online </li>
         <li>🎩 &nbsp; Desenvolvedor Jr </li>
-        <li>☕ &nbsp; Atualmente estou estudando Java </li>
+        <li>☕ &nbsp; Atualmente estou estudando Js </li>
        </ul>
        <p align="center">
          <br>
@@ -70,4 +70,4 @@
 
 ---
 
-Última edição em: 15/05/2023
+Última edição em: 25/06/2023
