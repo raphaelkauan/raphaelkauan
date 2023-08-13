@@ -7,7 +7,7 @@
     <td>
       <h2> 💻 &nbsp;Sobre mim </h2>
        <ul>
-        <li>🎓 &nbsp; Estudante de Bacharel em Sistemas de informação pela <a href="https://www.unescnet.br/">Unesc</a></li>
+        <li>🎓 &nbsp; Estudante de Bacharel em Sistemas de Informação pela <a href="https://www.unescnet.br/">Unesc</a></li>
         <li>📚 &nbsp; Aprimorando meu conhecimento através de cursos online </li>
         <li>🎩 &nbsp; QA Júnior </li>
         <li>☕ &nbsp; Atualmente estou estudando Técnicas de Testes </li>
