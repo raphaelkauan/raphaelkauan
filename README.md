@@ -19,7 +19,7 @@
     </td>
     <td>
      <p align="center">
-      <img height="335em"   src="https://camo.githubusercontent.com/dd2d8dcff2aac30a841491c3815b15888ca17648d1ddad33ad341e0ff2b89fec/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726b59355141356333564141414141432f6761746f2d6469676974616e646f2e676966"/>
+      <img height="335em" src="https://user-images.githubusercontent.com/111379005/265185159-c4ca7dc5-1238-4ea9-9a70-df84efcb983c.png"/>
      </p>
     </td>
   </tr>
