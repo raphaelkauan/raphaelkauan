@@ -19,7 +19,7 @@
     </td>
     <td>
      <p align="center">
-      <img height="345em" src="https://user-images.githubusercontent.com/111379005/265185513-342153d7-b56b-46fa-a81c-97b2b083ba62.png"/>
+      <img height="340em" src="https://user-images.githubusercontent.com/111379005/265185513-342153d7-b56b-46fa-a81c-97b2b083ba62.png"/>
      </p>
     </td>
   </tr>
