@@ -1,73 +1,40 @@
-## Olá! meu nome é Raphael Kauan 🖐️
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3EBDFF&size=30px&width=1000left=true&lines=Eae,+meu+nome+%C3%A9+Raphael+Kauan.;Muito+Prazer!)
+<ul>
+  <li>🎓 &nbsp; Estudante de Bacharel em Sistemas de Informação pela <a href="https://www.unescnet.br/"> Unesc </a></li>
+  <li>📚 &nbsp; Aprimorando meu conhecimento através de cursos online </li>
+  <li>🎩 &nbsp; Programador Júnior </li>
+  <li>☕ &nbsp; Atualmente estou estudando Javacript e alguns de seus frameworks </li>
+</ul>
+<br>
 
-![](https://komarev.com/ghpvc/?username=raphaelkauan-taabann&color=0069b4)
+<div align="center"> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelkauan&layout=donut&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=10" />
+  <img height="195px" src="https://streak-stats.demolab.com?user=raphaelkauan&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF"/>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <h2> 💻 &nbsp;Sobre mim </h2>
-       <ul>
-        <li>🎓 &nbsp; Estudante de Bacharel em Sistemas de Informação pela <a href="https://www.unescnet.br/">Unesc</a></li>
-        <li>📚 &nbsp; Aprimorando meu conhecimento através de cursos online </li>
-        <li>🎩 &nbsp; QA Júnior </li>
-        <li>☕ &nbsp; Atualmente estou estudando Técnicas de Testes </li>
-       </ul>
-       <p align="center">
-         <br>
-        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=raphaelkauan&show_icons=true&theme=darcula"/>
-        </p>
-    </td>
-    <td>
-     <p align="center">
-      <img height="335em" src="https://user-images.githubusercontent.com/111379005/265185513-342153d7-b56b-46fa-a81c-97b2b083ba62.png"/>
-     </p>
-    </td>
-  </tr>
-  <tr>
-   <td>
-     <h2> Tecnologias &nbsp; </h2>
-     <img height="20em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-     <br>
-     <img height="20em" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-     <br>
-     <img height="20em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-     <img height="20em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-     <img height="20em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-     <img height="20em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-     <br>
-     <img height="20em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-     <br>
-     <img height="20em" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-     <img height="20em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-     <br>
-     <img height="20em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-     <img height="20em" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-     <img height="20em" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
-     <br>
-     <img height="20em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-     <img height="20em" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-   </td>
-   <td>
-    <div align="center">
-      <h2><b>Como me alcançar?</b></h2>
-      <br>
-      <p>Basta entrar em contato em algumas das minhas redes sociais, responderei assim que possível.</p>
-      <br>
-      <a href="https://www.instagram.com/fantecellerapha/" target="_blank">
-      <img align="center" alt="Raphael Kauan | Instagram" width="30em" src="https://img.icons8.com/3d-fluency/256/instagram-new.png" />
-      </a> &nbsp;&nbsp;
-      <a href="mailto:raphaelkauanoficial@gmail.com" >
-      <img align="center" alt="Raphael Kauan | Gmail" width="30em" src="https://img.icons8.com/3d-fluency/256/gmail.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/raphaelkauan/" >
-      <img align="center" alt="Raphael Kauan | LinkedIn" width="30em" src="https://img.icons8.com/3d-fluency/1x/linkedin.png" />
-      </a> &nbsp;&nbsp;
-      <br>
-    </div>
-   </td>
-  </tr>
-</table>
+<br>
 
----
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Node.js" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="npm" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" background="#fff" alt="GitHub" height="35" width="45" src="https://github.com/feathericons/feather/blob/main/icons/github.svg">
+  <img align="center" alt="Git" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+</div>
 
-Última edição em: 13/08/2023
+##
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=raphaelkauan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+<div align="center"> 
+
+<a href = "" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF495F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href = "" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
+</div>
