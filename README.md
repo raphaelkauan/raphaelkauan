@@ -9,7 +9,7 @@
        <ul>
         <li>🎓 &nbsp; Estudante de Bacharel em Sistemas de Informação pela <a href="https://www.unescnet.br/">Unesc</a></li>
         <li>📚 &nbsp; Aprimorando meu conhecimento através de cursos online </li>
-        <li>🎩 &nbsp; Atualmente estou estudando Javacript e alguns de seus frameworks </li>
+        <li>🎩 &nbsp; Programador Júnior </li>
         <li>☕ &nbsp; Atualmente estou estudando Javacript e alguns de seus frameworks </li>
        </ul>
        <p align="center">
