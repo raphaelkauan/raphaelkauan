@@ -1,4 +1,4 @@
-## Olá! meu nome é Raphael Kauan <img src="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif" width="30" height="30"/>
+## Olá! meu nome é Raphael Kauan<img src="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif" width="30" height="30"/>
 
 ![](https://komarev.com/ghpvc/?username=raphaelkauan-taabann&color=0069b4)
 
