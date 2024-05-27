@@ -1,4 +1,4 @@
-<h1 align="center">Olá! meu nome é Raphael Kauan 👋</h1>
+<h1 align="center">Olá! meu nome é Raphael Kauan <img src="https://camo.githubusercontent.com/ef02e7964da836d2d18ef2da88e48f9a69cf7b5621083de85a77e48b1fd16d60/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6738726e30386737666831493772315432782f67697068792e676966" width="30" height="30"/> </h1> 
 
 ###
 
