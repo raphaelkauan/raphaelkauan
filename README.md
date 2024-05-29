@@ -1,4 +1,4 @@
-<h1 align="center">Olá! meu nome é Raphael Kauan <img src="https://camo.githubusercontent.com/ef02e7964da836d2d18ef2da88e48f9a69cf7b5621083de85a77e48b1fd16d60/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6738726e30386737666831493772315432782f67697068792e676966" width="30" height="30"/> </h1> 
+<h1 align="center">Hi, I'm Raphael Kauan <img src="https://camo.githubusercontent.com/ef02e7964da836d2d18ef2da88e48f9a69cf7b5621083de85a77e48b1fd16d60/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6738726e30386737666831493772315432782f67697068792e676966" width="30" height="30"/> </h1> 
 
 ###
 
@@ -13,12 +13,12 @@
 
 ###
 <p align="center">
-  Sou estudante de Bacharelado em Sistemas de Informação pela Unesc. Estou constantemente aprimorando meus conhecimentos através de cursos online. Sou um Programador Júnior e atualmente me dedico ao estudo de JavaScript e seus frameworks.
+  I am a Bachelor's student in Information Systems at Unesc. I am constantly improving my knowledge through online courses. I am a Junior Programmer and currently dedicate myself to studying JavaScript and its frameworks.
 </p>
 
 ###
 
-<h3 align="center">🛠 Linguagens e ferramentas</h3>
+<h3 align="center">🛠 Languages ​​and tools</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="center">🔥 Estatísticas</h3>
+<h3 align="center">🔥 Statistics</h3>
 
 ###
 
