@@ -13,7 +13,7 @@
 
 ###
 <p align="center">
-  I am a Bachelor's student in Information Systems at Unesc. I am constantly improving my knowledge through online courses. I am a Junior Programmer and currently dedicate myself to studying JavaScript and its frameworks.
+  I am a Bachelor's student in Information Systems at Unesc. I am constantly improving my knowledge through online courses. Currently dedicate myself to studying JavaScript and some of its frameworks.
 </p>
 
 ###
