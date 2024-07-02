@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="center">🛠 Languages ​​and tools</h3>
+<h4 align="center">🛠 Languages ​​and tools</h4>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="center">🔥 Statistics</h3>
+<h4 align="center">🔥 Statistics</h4>
 
 ###
 
