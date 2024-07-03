@@ -66,3 +66,9 @@
 </div>
 
 ###
+
+<h4 align="center">📚 Articles</h4>
+<div align="center">
+<a align="center" href="https://www.linkedin.com/pulse/entendendo-banco-de-dados-e-conceituando-conex%C3%A3o-raphael-kauan-/?trackingId=gQgXWcIKSr%2B6fCje9MolQQ%3D%3D" target="_blank">Entendendo Banco de Dados e Conceituando Conexão</a>
+</div>
+
