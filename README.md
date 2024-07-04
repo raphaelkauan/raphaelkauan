@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="https://www.instagram.com/fantecellerapha/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram logo"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/raphaelkauan/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin logo"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -61,8 +61,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelkauan&show_icons=true&theme=github_dark_dimmed&layout=compact&card_width=320" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelkauan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelkauan&show_icons=true&theme=github_dark_dimmed&layout=compact&card_width=320" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelkauan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -71,4 +71,3 @@
 <div align="center">
 <a align="center" href="https://www.linkedin.com/pulse/entendendo-banco-de-dados-e-conceituando-conex%C3%A3o-raphael-kauan-/?trackingId=gQgXWcIKSr%2B6fCje9MolQQ%3D%3D" target="_blank">Entendendo Banco de Dados e Conceituando Conexão</a>
 </div>
-
