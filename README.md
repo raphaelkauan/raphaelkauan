@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Raphael Kauan 👋 </h2> 
+<h2 align="center">Hi, I'm Raphael Kauan 👋 </h2>
 
 ###
 
@@ -12,6 +12,7 @@
 </div>
 
 ###
+
 <p align="center">
   I am a Bachelor's student in Information Systems at Unesc. I am constantly improving my knowledge through online courses. Currently dedicate myself to studying JavaScript and some of its frameworks.
 </p>
@@ -45,13 +46,20 @@
 	<img width="12" />
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/>
 	<img width="12" />
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
+	<img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/K6-load-testing-tool-logo.svg/2105px-K6-load-testing-tool-logo.svg.png" alt="k6" title="k6"/>
 	<img width="12" />
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 	<img width="12" />
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
 	<img width="12" />
 	<img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
+</div>
+
+###
+
+<h4 align="center">🧢 Certificates</h4>
+<div align="center">
+    <img href="https://www.credly.com/badges/8ffef771-d8cc-4316-8adc-440752690c34/linked_in_profile" target="_blank" width="50" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner"/>
 </div>
 
 ###
