@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Raphael Kauan 👋 </h2>
+<h2 align="center">Hi, I'm Raphael Kauan 👋</h2>
 
 ###
 
