@@ -62,11 +62,24 @@
 ###
 
 <div align="center">
-  <a href="https://sh.almanac.xyz.br/" target="_blank">
-    <img width="160" src="https://raw.githubusercontent.com/almanac-xyz/img-pub/main/IMG_9408.PNG" alt="Sherlock-Home" title="Sherlock-Home"/>
-  </a>
-  <br/>
-  <a href="https://sh.almanac.xyz.br/" target="_blank"><b>Sherlock-Home</b></a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://sh.almanac.xyz.br/" target="_blank">
+          <img height="160" src="https://raw.githubusercontent.com/almanac-xyz/img-pub/main/IMG_9408.PNG" alt="Sherlock-Home" title="Sherlock-Home"/>
+        </a>
+        <br/>
+        <a href="https://sh.almanac.xyz.br/" target="_blank"><b>Sherlock-Home</b></a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/company/novitchglobal/posts/" target="_blank">
+          <img height="160" src="https://github.com/NovitchHub/img-pub/blob/main/novitch-square.png" alt="Novitch" title="Novitch"/>
+        </a>
+        <br/>
+        <a href="https://www.linkedin.com/company/novitchglobal/posts/" target="_blank"><b>Novitch</b></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
