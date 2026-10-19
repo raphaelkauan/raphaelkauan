@@ -92,6 +92,10 @@
   <a href="https://www.proxmox.com/" target="_blank">
     <img width="240" src="https://proxmox.com/images/proxmox/logos/mediakit-proxmox-server-solutions-logos-dark.svg" alt="Proxmox" title="Proxmox"/>
   </a>
+  <br/><br/>
+  <a href="https://www.wireguard.com/" target="_blank">
+    <img width="35" src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wireguard.svg" alt="WireGuard" title="WireGuard"/>
+  </a>
 </div>
 
 ###
