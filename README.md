@@ -84,6 +84,18 @@
 
 ###
 
+<h4 align="center">🖥️ Server</h4>
+
+###
+
+<div align="center">
+  <a href="https://www.proxmox.com/" target="_blank">
+    <img width="240" src="https://proxmox.com/images/proxmox/logos/mediakit-proxmox-server-solutions-logos-dark.svg" alt="Proxmox" title="Proxmox"/>
+  </a>
+</div>
+
+###
+
 <h4 align="center">🧢 Certificates</h4>
 <div align="center">
   <a href="https://www.credly.com/badges/8ffef771-d8cc-4316-8adc-440752690c34/linked_in_profile" target="_blank">
