@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/fantecellerapha/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram logo"  />
+  <a href="mailto:fantecelle.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/raphaelkauan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin logo"  />
