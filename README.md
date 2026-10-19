@@ -14,7 +14,7 @@
 ###
 
 <p align="center">
-  I am a Bachelor's student in Information Systems at Unesc. I am constantly improving my knowledge through online courses. Currently dedicate myself to studying Java and Typescript for back-end.
+  I hold a Bachelor's degree in Information Systems from UNINASSAU and I'm currently pursuing a postgraduate degree in Software Architecture at Full Cycle. I am constantly improving my knowledge through online courses. Currently dedicate myself to studying Java and Typescript for back-end.
 </p>
 
 ###
@@ -53,6 +53,20 @@
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
 	<img width="12" />
 	<img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
+</div>
+
+###
+
+<h4 align="center">🚀 Projects</h4>
+
+###
+
+<div align="center">
+  <a href="https://sh.almanac.xyz.br/" target="_blank">
+    <img width="160" src="https://raw.githubusercontent.com/almanac-xyz/img-pub/main/IMG_9408.PNG" alt="Sherlock-Home" title="Sherlock-Home"/>
+  </a>
+  <br/>
+  <a href="https://sh.almanac.xyz.br/" target="_blank"><b>Sherlock-Home</b></a>
 </div>
 
 ###
